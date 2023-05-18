@@ -1,0 +1,196 @@
+---
+title: "Caracterización Informalidad en Chile"
+author: "Leonardo Rojas"
+---
+
+## Definiciones
+
+La economía no observada comprende todas las transacciones de bienes y servicios que son deliberadamente ocultadas de los registros oficiales. Las razones para esto pueden ser monetarias, regulatorias o institucionales [@medinaShadowEconomiesWorld2017], relacionadas en general con evitar el pago de impuestos y pagos a servicios públicos, evitar cumplir con regulaciones, entre otras.
+
+-   *La informalidad laboral alude a todas las actividades económicas y ocupaciones que -en la legislación o en la práctica- no están cubiertas o están insuficientemente contempladas por sistemas formales (OIT, 2012).*
+
+-   *Sector informal: Conjunto de unidades económicas que carecen de registro en el Servicio de Impuestos Internos (SII), y no llevan una contabilidad completa, a través de la cual puedan separar los gastos del negocio de los del hogar.*
+
+-   *Ocupación informal: comprende a todos los trabajadores dependientes que carecen de acceso al sistema de seguridad social (pensión y salud) por concepto de su vínculo laboral. Para el caso de los trabajadores independientes, se considera que poseen una ocupación informal si la empresa, negocio o actividad que desarrollan pertenece al sector informal.*
+
+## Relevancia
+
+*(Define y fundamenta el problema)*
+
+Su estudio es relevante porque su tamaño puede afectar la efectividad de las distintas políticas económicas. Además puede generar costos para la economía mediante ineficiencias en la asignación de recursos en actividades de baja productividad, incluso generando una competencia injusta entre las firmas formales e informales. Por otro lado se relaciona con deterioros del bienestar de la población por la falta de protección laboral y de sistemas de pensiones adecuados para los trabajadores, erosión fiscal y deterioro de la calidad de las instituciones y de los bienes públicos que estas proveen.
+
+-   *Riesgo de proliferación de mercados ilegales, deterioro institucional y diversificación de actividades criminales.*
+    -   *More Money, More Crime, Marcelo Bergman.*
+    -   *Hipótesis Matías*
+    -   *Democracias Violentas, Juan Pablo Luna, control territorial*
+-   *Considerar interrelación con economía formal: competencia, pero también gasto de ingresos informales en la economía formal*
+
+## Componentes
+
+Entre sus **componentes** podemos encontrar la informalidad laboral, la informalidad de las empresas y los emprendimientos, la evasión y la elusión de impuestos, los mercados informales e incluso los mercados ilegales.
+
+*(Caracterización en Chile y la Región)*
+
+*(¿Combinar componentes y caracterización?)*
+
+-   *Oportunidad de delinear hechos estilizados.*
+
+### Informalidad Laboral
+
+La informalidad laboral afecta a los trabajadores. Su definición ha mutado en el tiempo (desde el desempleo escondido y el subempleo disfrazado), tomando a veces enfoques de comportamiento o legalistas. El enfoque legalista la asocia al tipo de arreglo contractual que tiene el trabajador con la empresa, en particular si cuenta o no con protección social. A lo largo de la historia se ha asociado a la informalidad laboral a empleos de baja productividad, a veces realizados en los hogares, y desarrollados por los sectores vulnerables de la población.
+
+-   *Profundizar aspectos de definiciones, perspectivas legalistas versus de comportamiento.*
+-   *En general cada lectura define la informalidad al inicio. Revisar y compilar.*
+-   *Incluir la definición usada por el INE y la OIT.*
+
+*(Beneficios de la formalidad laboral)*
+
+La informalidad laboral también está presente en discusiones acerca de la calidad de los empleos. Esto porque la formalidad presenta beneficios como seguridad social, protección laboral, además de oportunidades de desarrollo profesional, capacitación y beneficios sociales. Se asocia también a entornos laborales más seguros, mejores salarios. Todo esto impacta positivamente en el bienestar y calidad de vida de las personas.
+
+Teóricamente, podemos considerar la informalidad laboral como un elemento endógeno resultante de una conjunción de características institucionales (reglamentos y normas que van definiendo incentivos), y por las características de los agentes (asociadas principalmente a su productividad).
+
+Se considera que cumple un rol de refugio en el sistema económico para los trabajadores en tiempos de recesiones económicas, momentos en que se destruyen y pierden empleos formales y muchos de estos recurren al sector informal para generar ingresos.
+
+Rol en recesiones y relación con baja productividad y personas vulnerables. Componente estructural, una especie de mínimo siempre presente, como buffer laboral o como espacio de libertad. No convence la idea de eliminar la informalidad, sino más bien el objetivo es monitorear estos sistemas y sus vulnerabilidades. Relación con la desigualdad y los mercados laborales fragmentados en la medida en que hay personas que no se benefician de mercados laborales robustos. Argumento para incluir la desigualdad como un indicador (efecto) Necesario profundizar el argumento (Informe Desiguales PNUD, indicadores Bienestar Social, profundizar correlaciones regionales por ejemplo)
+
+Debido a su naturaleza endógena es que la informalidad laboral varía considerablemente entre distintos países.
+
+(¿insertar argumento de heterogeneidad territorial?)
+
+Chile comparado con otros países
+
+Insertar dato chile versus otros países
+
+Además, la informalidad laboral presenta un doble fenómeno, dependiendo si se mira desde la perspectiva de los trabajadores o las unidades económicas. Un trabajador puede ser informal si trabaja bajo un contrato informal, pudiendo trabajar para una empresa formal (por ejemplo subcontratado) o para una empresa informal (que no registra actividades en el Servicio de Impuestos Internos). Este doble fenómeno implica que es más difícil la transición a la formalidad cuando la persona tiene un contrato informal en una empresa informal.
+
+Según el informe de realizado por el ministerio de hacienda en conjunto con el consorcio de universidades contra la informalidad (2022) se puede caracterizar la informalidad laboral en Chile de la siguiente forma:
+
+En términos de tendencias, usando la medición de la Encuesta Nacional de Empleo (ENE) realizada por el Instituto Nacional de Estadísticas (INE) se aprecia que desde el 2017 se mantiene relativamente estable en torno al 30% de los ocupados. Además la pandemia fue el momento de menores tasas, llegando a un 22%, caracterizado por las restricciones de movilidad y reunión. Esto implicó que el sector informal no pudo cumplir su rol de refugio.
+
+¿discusión de políticas públicas y retiros de AFP?) Insertar gráficos de serie de tiempo ENE
+
+Ejes estructurantes Sector económico: Sector Formal, Sector Informal, Hogares como Empleadores Edad Educacion Género Rama de actividad económica Sección B: caracterización vínculo principal B14_ciiu_rev4_caenes Tamaño empresa
+
+Total personas versus tasas Indices relativos Tasa y números a nivel regional
+
+Respecto de la prevalencia de la informalidad laboral se aprecia que esta se concentra en las empresas del sector informal. Representando un 62% de las 2,3 millones de personas en empleos informales en el trimestre de junio-agosto de 2022. Del resto, un 32% trabajan en empresas del sector formal y un 7% en hogares como empleadores. Respecto de las fuentes laborales, un 50% de la informalidad viene de trabajadores por cuenta propia en empresas informales, y un 30% de asalariados informales en empresas formales.
+
+Cuadro de precariedad de la fuerza laboral ¿Elementos de elección, autoselección? ¿Motivación para ser cuenta propia? ¿Evitar jefaturas? Informalidad laboral como subgrupo de personas más productivas que se "salen": autoselección por ganancia o exclusión ¿Quién puede efectivamente elegir salirse? Es como quien elige dónde vivir Contreras et al. (2008)
+
+Por otro lado, la informalidad laboral se concentra en ciertos grupos de la población. Afectando principalmente a mujeres, jóvenes entre 15 y 24 años y a las personas adultas de 65 años o más. Además, se concentra en personas con menores niveles educativos.
+
+Es necesario mencionar que la informalidad es un fenómeno dinámico, que evoluciona en el tiempo, y donde las personas presentan transiciones entre estados de formalidad, informalidad, desempleo e inactividad. En este sentido, usando datos de panel de la Encuesta de Protección Social (EPS), Atria y otros (2021) calculan probabilidades condicionales de transiciones laborales. Sus resultados muestran que condicional a tener empleo formal es más probable que los jóvenes se mantengan en la formalidad. A mayores niveles educacionales es mayor la probabilidad de mantenerse en empleo formal o transitar a la formalidad. Incluso, los hombres presentan mayores probabilidades de mantenerse en empleos formales. Es decir que la informalidad depende de la historia laboral.
+
+Respecto de los sectores económicos, usando los datos de la Encuesta Nacional de Empleo, se aprecia que presentan mayores niveles de informalidad laboral los hogares como empleadores, agricultura y construcción.
+
+Insertar gráfico sectores económicos ENE
+
+En términos de índices relativos destacan los sectores agropecuarios, actividades artísticas, comercio, alojamiento, comidas y transporte (Livert et al 2022).
+
+Índices relativos, ENE
+
+En cuanto a las características de las empresas, se evidencia que la informalidad laboral predomina en empresas de menor tamaño, siendo un 60% la tasa promedio de informalidad en empresas con menos de 5 trabajadores entre los años 2017 y 2022, 25% en empresas de 5 a 10 personas, bajando a 6% y 8% para empresas medianas y grandes.
+
+ENE: informalidad por tamaño de empresa
+
+Costos administrativos de formalización (afecta más a empresas pequeñas)
+
+Por redactar: idea de ciclo y estructura en la informalidad laboral: Mercado laboral informal que absorbe trabajadores en tiempos de recesión, Características de las políticas económicas tomadas.
+
+Separar informalidad "estructural" de la informalidad de temporada.
+
+Idea de un nivel "estructural" de informalidad laboral, donde no es realista esperar una reducción total de esta. Mercados integrados absorben trabajadores en recesiones. Un Mercado Laboral Segmentado excluye trabajadores de baja productividad
+
+Evidencia de Contreras et al. (2008) indica que la informalidad se debe a la autoselección, debido a baja productividad y bajo capital humano de los trabajadores. Esto subraya la necesidad de sistemas de formación contínua que funciones, de calidad Revisar niveles educativos de la población adulta
+
+Hipótesis de informalidad en contexto de urbanización Migración: campo ciudad (revisar histórico) Internacional (actual) Desindustrialización: no hay manufactura para captar empleo poco calificado ¿Qué sectores absorben nuevos trabajadores? Hipótesis Servicios Comercio Informal Revisar estructura de salarios por sector económico (CASEN) "Trabajadores del conocimiento", "economías maduras"
+
+### Informalidad en las Empresas
+
+Contreras et al (2008) indica que cerca de 40-50% de las empresas operan informalmente, con cerca de 11% de la base potencial imponible del del impuesto al valor agregado (IVA) se estima no declarado en 2005 (este impuesto representa cerca de la mitad del ingreso del gobierno central).
+
+Podemos usar los datos de la Encuesta de Microemprendimiento (EME) para caracterizar los emprendimientos de hasta 10 personas trabajadoras. Esta se realiza cada dos años y tiene cobertura urbana y rural, dirigida a hogares donde reside al menos una persona dueña de un microemprendimiento.
+
+Los datos de 2019 indican que en Chile existen cerca de 2 millones de personas microemprendedoras, siendo un 15,4% empleadores y 84,6% por cuenta propia. Estas se caracterizan por un bajo nivel educacional y desarrollar el negocio en su vida adulta, con un 70% de las personas con educación básica y media, y un poco menos de la mitad con 45 a 64 años.
+
+Insertar gráficos EME
+
+Tenemos que un 53,1% de los microemprendimientos son informales, concentrando en los sectores de agricultura, manufactura, transporte y sector primario. Estos se encuentran motivados principalmente por necesidad, especialmente los microemprendimientos informales femeninos (67%), contra un 49% de los masculinos.
+
+Los microemprendimientos formales se concentran en servicios y actividades inmobiliarias, y se motivan principalmente por oportunidad.
+
+Entre los beneficios se mencionan no tener una jefatura superior (principal motivo para los hombres), la flexibilidad horaria y la posibilidad de compatibilizar labores domésticas y de cuidado (principal motivo para las mujeres). De cierta forma esto se relaciona con una dimensión de control de la propia vida.
+
+Limitantes y razones de no formalizar: falta de demanda, falta de clientes y de financiamiento.
+
+### Economía Digital e Informalidad
+
+Economía digital y plataformas de trabajo: Nuevas formas de trabajo, mayor flexibilidad, poca transparencia y espacio para desprotección de trabajadores Informalidad en este sector es más alto que el promedio Afecta principalmente a... Ley de protección Camara de Comercio
+
+Efectos de la economía digital en los mercados Ampliación de clientes (?) revisar Athena Lab, efecto en economía ilegal Tecnología ¿Fiscalía? Mercado Ilegal ¿cómo se configura en el territorio?
+
+Informalidad de Empresas: Elucubrar efecto por tamaño de empresa (no formalizar versus eludir) Apertura comercial Complejidad del sistema tributario Carga tributaria Cultura de cumplimiento tributario Confianza en Instituciones Carga administrativa y barreras a la formalización
+
+Capacidad de fiscalización del Estado y calidad institucional. Análisis similar al realizado por Bergman y su equilibrio general.
+
+Evasión y Elusión Tributaria Informes SII Evasióin del IVA
+
+### Mercados Ilegales
+
+Comercio Ambulante Informe USACH y Estallido Ferias Libres
+
+Mercados Ilegales: Elementos institucionales en Chile. Lavado de dinero. Ejemplos: comercio ambulante, cobre, madera, salmón, huiro flotador, narcotráfico, otros delitos.
+
+## Factores que la afectan
+
+Seguir enfoque tipo MIMIC donde se resumen causas y consecuencias, mencionando estudios que apoyen y permitan dar idea de métricas.
+
+Elementos institucionales que dificultan la formalización: diseño, calidad de instituciones, fiscalización.
+
+Está relacionada también con baja productividad, desigualdad económica.
+
+Buscar referencias de impacto en desigualdad (por ejemplo en China) Argumento desde mercados laborales fragmentados donde sectores vulnerables no reciben beneficios (¿PNUD?)
+
+Existen diversos factores y causas para la economía no observada, pudiendo dividirse esta en sus distintos componentes
+
+Factores determinantes (revisión de literatura) \["explica causas de su existencia"\] Determinantes a nivel de trabajador y empresas. Diversa naturaleza, directos e indirectos, tributarios, regulatorios, comerciales, laborales, educacionales y relacionados al sistema de protección social. Preferencias de las personas y grupos vulnerables. Listar y hacer dialogar informe de hacienda con modelos MIMIC Ejemplo: incluir consumo eléctrico (resultado), penetración de internet (causa - además interactúa con plataformas digitales), ¿cultura? Avances en políticas para simplificar trámites Demanda por flexibilidad (reformas laborales 40 horas)
+
+Directos e Indirectos Preferencias y Productividad Deterioro Institucional
+
+Respecto de la informalidad laboral Causas directas: Características individuales: Edad. Educación. Sexo. Sector económico. Características de los hogares: Vulnerabilidad. Personas formales en el hogar. Composición y número. Causas indirectas: Elementos institucionales: Calidad institucional. Variables de entorno: Políticas económicas.
+
+Schneider Causas y motivaciones Tax morale Mercados segmentados Relación con corrupción Hipótesis: Países bajo ingreso relación complementaria Países alto ingreso relación sustitución
+
+Mercados Ilegales Tesis de Marcelo Bergman More Money More Crime Factores facilitadores (Athena Lab): debilidad institucional, conflicto social, vulnerabilidad, infraestructura, tecnología, Narcotráfico Medio ambiente Robo de cobre, madera, pescados Trata de personas y tráfico de migrantes Control territorial y extorsión Lavado de activos Elementos comunes: facturas falsas, blanqueamiento de productos, organizaciones criminales Estos mercados ilegales generan ingresos que luego entran a la economía formal mediante el lavado de activos o mediante el consumo de las unidades criminales. Dibujo de flujos de ingresos ilícitos Falsificación de instrumentos Lavado de activos Rol de aduanas Consumo de hogares Incorporar delitos y denuncias en el modelo MIMIC para la estimación de la economía en las sombras.
+
+## Formas de Medición y Estrategia Metodológica
+
+Discusión de robustez de los métodos y sensibilidad a formulaciones
+
+Su medición es un desafío debido a su naturaleza oculta. Sin embargo existen tres enfoques principales.
+
+El primero representa las mediciones directas, donde mediante encuestas y auditorías tributarias se busca medir directamente el nivel de informalidad. Estas mediciones presentan sesgos de subreporte. En Chile, por ejemplo, la informalidad laboral se mide directamente desde el 2017 en la Encuestas Nacional de Empleo (aunque para años anteriores se puede estimar mediante las características de los empleos de las personas)
+
+¿Mediciones de evasión y elusión tributaria, lavado de dinero y otros?
+
+Un segundo enfoque es el llamado indirecto donde se busca cuantificar la informalidad mediante variables fuertemente relacionadas. A este respecto se cuentan metodologías como la estimación por demanda de divisas (CDA por sus siglas en inglés), donde se estima la informalidad a partir del hecho de que la mayoría de las transacciones informales se realizan usando dinero en efectivo. Este método es de los más usados para la estimación del tamaño de la economía informal en distintos países. Otra estrategia de estimación indirecta está relacionada al input físico o consumo energético. Este enfoque se apoya en el hecho de que tanto la economía formal e informal usan como insumo la energía en sus funciones de producción, y a partir de la estimación de una elasticidad de demanda de esta para el sector informal se infiere el crecimiento y el tamaño de este sector usando datos de consumo energético y crecimiento económico.
+
+Un tercer enfoque son los métodos basados en modelos, los cuales son más complejos. Estos métodos incluyen enfoques macroeconómicos del tipo de Equilibrio General Estocástico Dinámico (DGE por sus siglas en inglés), donde se modelan distintos sectores de la economía y sus flujos monetarios relacionados. Estos son modelos en general desarrollados y usados por los Bancos Centrales para estimar también los efectos de distintas políticas macroeconómicas. Una desventaja de estos métodos es que requieren muchos datos. Otro enfoque es el de Múltiples Causas y Múltiples Indicadores (MIMIC, por sus siglas en inglés) el cual usa una metodología estadística de variables latentes para modelar el sector informal a partir de variables que representan sus causas y otras que muestran sus efectos o indicadores. Este enfoque es usado de forma extensiva en el mundo para estimar el tamaño de la economía informal.
+
+La posibilidad de estudiar la economía no observada a escala subnacional es un desafío tanto por la disponibilidad de información como por la aplicabilidad de los distintos métodos de estimación
+
+Factores locales (económicos, sociales, estructurales). Pertinencia de los métodos de estimación a escala subnacional.
+
+Perspectiva Territorial Territorios Funcionales: coordinación institucional necesaria para mejorar efectividad de políticas (crowding out o aumento de eficiencia por disgregación institucional)
+
+Se propone estimar mediante MIMIC DIMIMIC, mimic dinamico : Schneider 2020 mencionado en Novkovska 2018 Criticas: No hay pruebas de que es exhaustivo (puede tener omisiones de factores relevantes) Delay de 1 año puede o no puede ser razonable
+
+Dibujo de causas y efectos
+
+Propuesta Metodológica Diagrama de Flujo
+
+Datos ENE: provincial y algunas ciudades Estimación en algunas ciudades (ELSOC)
+
+Ejemplos de Estimaciones Causas Indicadores
+
+Escalas de estimación China USA Europa
