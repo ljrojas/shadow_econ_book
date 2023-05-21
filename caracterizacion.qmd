@@ -7,11 +7,6 @@ author: "Leonardo Rojas"
 
 La economía no observada comprende todas las transacciones de bienes y servicios que son deliberadamente ocultadas de los registros oficiales. Las razones para esto pueden ser monetarias, regulatorias o institucionales [@medinaShadowEconomiesWorld2017], relacionadas en general con evitar el pago de impuestos y pagos a servicios públicos, evitar cumplir con regulaciones, entre otras.
 
--   *La informalidad laboral alude a todas las actividades económicas y ocupaciones que -en la legislación o en la práctica- no están cubiertas o están insuficientemente contempladas por sistemas formales (OIT, 2012).*
-
--   *Sector informal: Conjunto de unidades económicas que carecen de registro en el Servicio de Impuestos Internos (SII), y no llevan una contabilidad completa, a través de la cual puedan separar los gastos del negocio de los del hogar.*
-
--   *Ocupación informal: comprende a todos los trabajadores dependientes que carecen de acceso al sistema de seguridad social (pensión y salud) por concepto de su vínculo laboral. Para el caso de los trabajadores independientes, se considera que poseen una ocupación informal si la empresa, negocio o actividad que desarrollan pertenece al sector informal.*
 
 ## Relevancia
 
@@ -27,7 +22,17 @@ Su estudio es relevante porque su tamaño puede afectar la efectividad de las di
 
 ## Componentes
 
-Entre sus **componentes** podemos encontrar la informalidad laboral, la informalidad de las empresas y los emprendimientos, la evasión y la elusión de impuestos, los mercados informales e incluso los mercados ilegales.
+Entre sus **componentes** podemos encontrar:
+
+-   la informalidad laboral
+
+-   la informalidad de las empresas y los emprendimientos
+
+-   la evasión y la elusión de impuestos
+
+-   los mercados informales
+
+-   los mercados ilegales.
 
 *(Caracterización en Chile y la Región)*
 
@@ -35,12 +40,50 @@ Entre sus **componentes** podemos encontrar la informalidad laboral, la informal
 
 -   *Oportunidad de delinear hechos estilizados.*
 
+A continuación se revisan más en detalle las características de los componentes mencionados.
+
 ### Informalidad Laboral
 
-La informalidad laboral afecta a los trabajadores. Su definición ha mutado en el tiempo (desde el desempleo escondido y el subempleo disfrazado), tomando a veces enfoques de comportamiento o legalistas. El enfoque legalista la asocia al tipo de arreglo contractual que tiene el trabajador con la empresa, en particular si cuenta o no con protección social. A lo largo de la historia se ha asociado a la informalidad laboral a empleos de baja productividad, a veces realizados en los hogares, y desarrollados por los sectores vulnerables de la población.
+-   *La informalidad laboral alude a todas las actividades económicas y ocupaciones que -en la legislación o en la práctica- no están cubiertas o están insuficientemente contempladas por sistemas formales (OIT, 2012).*
+
+-   *Sector informal: Conjunto de unidades económicas que carecen de registro en el Servicio de Impuestos Internos (SII), y no llevan una contabilidad completa, a través de la cual puedan separar los gastos del negocio de los del hogar.*
+
+-   *Ocupación informal: comprende a todos los trabajadores dependientes que carecen de acceso al sistema de seguridad social (pensión y salud) por concepto de su vínculo laboral. Para el caso de los trabajadores independientes, se considera que poseen una ocupación informal si la empresa, negocio o actividad que desarrollan pertenece al sector informal.*
+
+
+*Diagrama Informalidad Laboral y Economía No Observada*
+
+*¿Como se inserta la informalidad laboral en la economía no observada?*
+
+![](img/INE-manual-informalidad-diagrama.PNG)
+
+- Dos tipos de producciones: la ilegal y la oculta o subterránea
+
+    - Produccion ilegal se encuentra dentro del sistema de cuentas nacionales (SCN) y comprende la producción de bienes o servicios cuya comercialización, tenencia y distirbución es penada por la ley. Por ejemplo la venta o producción de drogas.
+    - Considera también actividades que aunque no son ilegales, al ser desarrolladas por individuos o productores no autorizados, se tornan ilegales. Incluye tambien venta de articulos falsificados o ejercicios de profesiones sin las credenciales educacionales correspondientes.
+    - Las encuestas de trabajo podrían capturar este tipo de ocupaciones, dependiendo de la auto-declaración del informante.
+    
+    - La producción oculta o subterránea abarca actividades legales que se desarrollan sin conocimiento de autoridades públicaspertinentes, principalmente para evadir el pago de impuestos, prestaciones sociales o el cumplimiento de normativas.
+        - Economía que escapa los mecanismos de visibilización normativa.
+        
+    - Sobrelape con informalidad es parcial, la informalidad comprende actividades para generar trabajo en ocupacion e ingresos para si mismos en pequeña escala. 
+    
+    - La economia de dificil acceso, gris o negra, existe tanto para el sector informal como el no informal.
+    
+    OIT 2013 (medicion informalidad) señala que para los paises en desarrollo y transicion la mayoria de las activiades inforamles no son subterraneas ni ilegales
+
+La informalidad laboral afecta a los trabajadores. Su definición como término ha mutado en el tiempo, se ha hablado en un comienzo del *desempleo escondido* y el *subempleo disfrazado*. Siendo prevalentes a veces enfoques de comportamiento o legalistas.
+
+El enfoque legalista la asocia al tipo de arreglo contractual que tiene el trabajador con la empresa, en particular si cuenta o no con protección social.
+
+A lo largo de la historia se ha asociado a la informalidad laboral a empleos de baja productividad, a veces realizados en los hogares, y desarrollados por los sectores vulnerables de la población.
 
 -   *Profundizar aspectos de definiciones, perspectivas legalistas versus de comportamiento.*
 -   *En general cada lectura define la informalidad al inicio. Revisar y compilar.*
+    - Falta de Registro en el SII
+    - Ausencia de Contabilidad
+    - Arreglo Contractual, pensiones, salud.
+    
 -   *Incluir la definición usada por el INE y la OIT.*
 
 *(Beneficios de la formalidad laboral)*
@@ -55,15 +98,18 @@ Rol en recesiones y relación con baja productividad y personas vulnerables. Com
 
 Debido a su naturaleza endógena es que la informalidad laboral varía considerablemente entre distintos países.
 
-(¿insertar argumento de heterogeneidad territorial?)
+*(¿insertar argumento de heterogeneidad territorial?)*
 
-Chile comparado con otros países
+*Chile comparado con otros países*
 
-Insertar dato chile versus otros países
+*Insertar dato chile versus otros países*
 
 Además, la informalidad laboral presenta un doble fenómeno, dependiendo si se mira desde la perspectiva de los trabajadores o las unidades económicas. Un trabajador puede ser informal si trabaja bajo un contrato informal, pudiendo trabajar para una empresa formal (por ejemplo subcontratado) o para una empresa informal (que no registra actividades en el Servicio de Impuestos Internos). Este doble fenómeno implica que es más difícil la transición a la formalidad cuando la persona tiene un contrato informal en una empresa informal.
 
 Según el informe de realizado por el ministerio de hacienda en conjunto con el consorcio de universidades contra la informalidad (2022) se puede caracterizar la informalidad laboral en Chile de la siguiente forma:
+
+*Insertar graficos*
+
 
 En términos de tendencias, usando la medición de la Encuesta Nacional de Empleo (ENE) realizada por el Instituto Nacional de Estadísticas (INE) se aprecia que desde el 2017 se mantiene relativamente estable en torno al 30% de los ocupados. Además la pandemia fue el momento de menores tasas, llegando a un 22%, caracterizado por las restricciones de movilidad y reunión. Esto implicó que el sector informal no pudo cumplir su rol de refugio.
 
@@ -131,11 +177,13 @@ Efectos de la economía digital en los mercados Ampliación de clientes (?) revi
 
 Informalidad de Empresas: Elucubrar efecto por tamaño de empresa (no formalizar versus eludir) Apertura comercial Complejidad del sistema tributario Carga tributaria Cultura de cumplimiento tributario Confianza en Instituciones Carga administrativa y barreras a la formalización
 
+### Evasión y Elusión de Impuestos
+
 Capacidad de fiscalización del Estado y calidad institucional. Análisis similar al realizado por Bergman y su equilibrio general.
 
 Evasión y Elusión Tributaria Informes SII Evasióin del IVA
 
-### Mercados Ilegales
+### Mercados Informales e Ilegales
 
 Comercio Ambulante Informe USACH y Estallido Ferias Libres
 
